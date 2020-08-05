@@ -1,0 +1,41 @@
+p { 
+    background-color: brown;
+    border: 1px solid black
+}
+
+div { 
+    background-color: green;
+    border: 1px solid red
+}
+.texto-azul{
+    color: blue;
+    background-color: blueviolet;
+}
+
+#texto-destaque{
+    color: white;
+    background-color: black;
+    border: 1pc solid blue;
+}
+
+button{
+    background-color: crimson;
+}
+
+.vamos{
+    background-color: white;
+    border: none;
+}
+
+* {
+    margin: 12px;
+    padding: 12px 24px 36px 48px;
+
+}
+#quadrado {
+    width: 80px;
+    height: 20px;
+    background-color: darkolivegreen;
+    margin: 0 auto;
+
+}
