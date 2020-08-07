@@ -1,0 +1,57 @@
+html,
+
+
+body {
+  height: 100%;
+}
+
+body {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.site-header {
+  max-width: 800px;
+  margin: 0 auto;
+  border: 50px;
+  color: rgb(0, 0, 0);
+  background: rgb(92, 184, 255);
+
+  padding: 0 0.25rem;
+}
+
+.site-content {
+  flex: 1;
+  padding: 15%;
+  background: rgb(92, 184, 255);
+}
+
+.caixa {
+  float: right;
+  padding: 10px;
+  border-color: rgb(71, 73, 84);
+  border: 2px solid;
+  margin: 6px;
+  text-align: center;
+
+}
+
+.site-footer {
+  background: rgb(255, 204, 51);
+  padding: 10%;
+}
+
+.footer-first{
+  float: left;
+  text-align: center;
+}
+.footer-second{
+  float: right;
+}
+.footer-first{
+  padding-right: 10%;
+}
+
